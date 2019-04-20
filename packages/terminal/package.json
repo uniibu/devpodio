@@ -8,7 +8,7 @@
     "@devpodio/filesystem": "^0.5.1",
     "@devpodio/process": "^0.5.1",
     "@devpodio/workspace": "^0.5.1",
-    "xterm": "3.9.2"
+    "xterm": "3.12.2"
   },
   "publishConfig": {
     "access": "public"
